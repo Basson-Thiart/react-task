@@ -1,0 +1,19 @@
+/* src/App.css */
+.jumbotron {
+  background-color: #f8f9fa;
+  padding: 2rem;
+  border-radius: 0.3rem;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+}
+
+.jumbotron h1 {
+  font-size: 2.5rem;
+}
+
+.jumbotron p {
+  font-size: 1.25rem;
+}
+
+.mt-5 {
+  margin-top: 3rem;
+}
